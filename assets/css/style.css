@@ -1,0 +1,48 @@
+head {
+    background: #ffffff;
+    border: #cccccc;
+    font: Georgia;
+}
+
+main {
+    background: #fff;
+    border: #ccc;
+}
+
+h1 {
+    color: #4aaaa5;
+    font: arial;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+p {
+    color: #777777;
+    font: helvetica;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    background-color: #fff;
+    }
+
+footer {
+    padding: 20px;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    right: 1px;
+}
+
+body {
+    background-image: url(../images/vintage-wallpaper.png);
+    background-size: 100%;
+    text-align: center;
+}
+
+
+
+
